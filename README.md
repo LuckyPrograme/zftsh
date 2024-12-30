@@ -1,1 +1,6 @@
-# All zftsh scripts
+Структура проекта:
+/zftsh
+╚
+╟/
+╟
+
